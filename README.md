@@ -30,10 +30,22 @@
 || ◾️ Revenue yang diperoleh juga menunjukkan adanya minat dan partisipasi yang baik dari peserta. Namun, tetap perlu dilakukan evaluasi terus-menerus untuk meningkatkan efektivitas dan efisiensi dari setiap source promosi yang digunakan.|
 
 Berikut ERD pada case ini :
+![ERD](https://github.com/mzfuadi97/Campaign-Webinar/assets/70827786/1840852d-5259-4822-a376-f70f90b14ff8)
 
 Beberapa permintaan informasi dari user akan ditampilkan sebagai berikut :
-/
+5 Top Customer berdasarkan revenue dan total transaksi
+![1](https://github.com/mzfuadi97/Campaign-Webinar/assets/70827786/941b5d23-eb34-421c-8211-4cded0c7781e)
+
+Revenue dan total transaksi masing-masing domisili
+![2](https://github.com/mzfuadi97/Campaign-Webinar/assets/70827786/27b4dc1c-6ad8-4746-829f-30b67af0cc00)
+
+Transaksi & Revenue yang dihasilkan dari setiap campaign
+![5](https://github.com/mzfuadi97/Campaign-Webinar/assets/70827786/1cb8a7bf-3e04-4d2b-90f1-dd5b6331bcd8)
+
 Dashboard Product & Service :
+![Product Overview](https://github.com/mzfuadi97/Campaign-Webinar/assets/70827786/47366b2b-d211-42b0-83e8-028dc6f7d4ef)
+
+![Service Overview](https://github.com/mzfuadi97/Campaign-Webinar/assets/70827786/902cd764-f6e1-442a-b5fe-97b4a7b6d168)
 
 Berikut improvement yang akan dilakukan :
 1.  Dari soal sebelumnya dilihat rata-rata rating produk masih 3,5 bisa dintepretasikan konsumen merasa biasa saja, dan kemungkinan akan membeli di tempat lain, kita bisa evaluasi dari sales yang menjual produk tersebut, mungkin saja sales belum ditraining informasi beberapa product (product knowledge) atau terkait pelayanan yang diberikan ke konsumen,
